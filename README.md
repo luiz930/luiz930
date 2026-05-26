@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,45:7C3AED,100:22C55E&text=Luiz%20Henrique&fontAlign=50&fontAlignY=37&fontColor=FFFFFF&fontSize=46&desc=Desenvolvimento%20de%20sistemas%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Web%20%7C%20Backend%20%7C%20Frontend&descAlign=50&descAlignY=58&animation=fadeIn" alt="Banner do perfil de Luiz Henrique" />
+<img width="100%" src="./assets/dev-fantasma-banner.png" alt="Banner Dev Fantasma - tecnologia, programação, IA e futuro" />
 
 <p align="center">
   <a href="https://github.com/luiz930">
