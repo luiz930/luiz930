@@ -13,7 +13,7 @@
   <a href="https://github.com/luiz930/autoflow-system">
     <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-AutoFlow-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="AutoFlow System" />
   </a>
-  <a href="https://github.com/luiz930/SAMP">
+  <a href="https://github.com/luiz930/GM_SAMP_GTA_SAN_ANDREAS">
     <img src="https://img.shields.io/badge/Multiplayer-SA--MP-0EA5E9?style=for-the-badge&logo=serverfault&logoColor=white" alt="Projetos SA-MP" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=luiz930&style=for-the-badge&color=7C3AED&label=VISITAS" alt="Visitas no perfil" />
@@ -135,7 +135,18 @@ Meu trabalho combina desenvolvimento **backend**, **frontend**, **banco de dados
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/luiz930/autoflow-system">AutoFlow System</a></h3>
+      <h3><a href="https://github.com/luiz930/FORUM_SAMP_ONLINE">FORUM_SAMP_ONLINE</a></h3>
+      <p><strong>Objetivo:</strong> criar uma base web para comunidade, comunicação e organização de conteúdo ligado ao ecossistema SA-MP.</p>
+      <p><strong>Funcionalidades:</strong> estrutura JavaScript, interface web, organização de páginas e base para recursos de fórum.</p>
+      <p><strong>Diferencial técnico:</strong> projeto voltado a plataforma online, preparado para evoluir com autenticação, moderação e painel administrativo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Web-0EA5E9?style=flat-square" alt="Web" />
+        <img src="https://img.shields.io/badge/SA--MP-7C3AED?style=flat-square" alt="SA-MP" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/luiz930/autoflow-system">autoflow-system</a></h3>
       <p><strong>Objetivo:</strong> estruturar uma base de sistema administrativo com foco em automação, gestão e operação empresarial.</p>
       <p><strong>Funcionalidades:</strong> rotinas automatizadas, telas web, regras de negócio, organização de dados e suporte a fluxos internos.</p>
       <p><strong>Diferencial técnico:</strong> projeto full stack com Python, HTML, TypeScript, JavaScript, CSS e estrutura preparada para evolução.</p>
@@ -145,21 +156,21 @@ Meu trabalho combina desenvolvimento **backend**, **frontend**, **banco de dados
         <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-7C3AED?style=flat-square" alt="Automação" />
       </p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/luiz930/lavagem">Sistema de lavagem / gestão</a></h3>
-      <p><strong>Objetivo:</strong> apoiar operação de negócio com presença web, organização de atendimento e base administrativa.</p>
-      <p><strong>Funcionalidades:</strong> estrutura visual, páginas operacionais, base em HTML e apoio backend em Python.</p>
-      <p><strong>Diferencial técnico:</strong> projeto voltado a uso real, com caminho claro para cadastro, controle, relatórios e automações.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Gest%C3%A3o-22C55E?style=flat-square" alt="Gestão" />
-      </p>
-    </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/luiz930/SAMP">Servidor Multiplayer SA-MP</a></h3>
+      <h3><a href="https://github.com/luiz930/luiz930">luiz930</a></h3>
+      <p><strong>Objetivo:</strong> manter o README principal do perfil GitHub como portfólio visual e apresentação profissional.</p>
+      <p><strong>Funcionalidades:</strong> banner personalizado, identidade Dev Fantasma, badges, estatísticas, projetos destacados e contato.</p>
+      <p><strong>Diferencial técnico:</strong> perfil organizado para oportunidades, freelas e apresentação dos projetos reais em um único ponto.</p>
+      <p>
+        <img src="https://img.shields.io/badge/GitHub%20Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+        <img src="https://img.shields.io/badge/Portf%C3%B3lio-0EA5E9?style=flat-square" alt="Portfólio" />
+        <img src="https://img.shields.io/badge/Dev%20Fantasma-7C3AED?style=flat-square" alt="Dev Fantasma" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/luiz930/GM_SAMP_GTA_SAN_ANDREAS">GM_SAMP_GTA_SAN_ANDREAS</a></h3>
       <p><strong>Objetivo:</strong> desenvolver uma base multiplayer com sistemas de jogo, comandos, regras e estrutura de servidor.</p>
       <p><strong>Funcionalidades:</strong> gamemode, lógica de servidor, scripts auxiliares, comandos e recursos para experiência online.</p>
       <p><strong>Diferencial técnico:</strong> grande base em Pawn com apoio de scripts operacionais, foco em estabilidade e evolução de gameplay.</p>
@@ -167,17 +178,6 @@ Meu trabalho combina desenvolvimento **backend**, **frontend**, **banco de dados
         <img src="https://img.shields.io/badge/Pawn-6B7280?style=flat-square&logo=codeforces&logoColor=white" alt="Pawn" />
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
         <img src="https://img.shields.io/badge/SA--MP-7C3AED?style=flat-square" alt="SA-MP" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/luiz930/forum">Forum Web</a></h3>
-      <p><strong>Objetivo:</strong> criar uma plataforma web para comunicação, conteúdo e organização de comunidade.</p>
-      <p><strong>Funcionalidades:</strong> estrutura JavaScript, base de interface, organização de conteúdo e suporte a experiência online.</p>
-      <p><strong>Diferencial técnico:</strong> projeto web direto, leve e preparado para expansão com autenticação, moderação e painel administrativo.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Web-0EA5E9?style=flat-square" alt="Web" />
-        <img src="https://img.shields.io/badge/Comunidade-7C3AED?style=flat-square" alt="Comunidade" />
       </p>
     </td>
   </tr>
